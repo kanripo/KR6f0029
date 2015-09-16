@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說阿闍貰王女阿術達菩薩經
+#+DATE: 2015-08-30 20:01:18.894564
+#+PROPERTY: JUAN 0
